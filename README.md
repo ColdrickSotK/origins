@@ -1,31 +1,15 @@
-# origins
+# Origins
 
-## Project setup
-```
-npm install
-```
+Origins is an in-development web-based game about building
+civilizations. At the moment its only a tech tree and isn't running
+anywhere in production.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This repository contains a web-based client for Origins, written
+using Vue. For the backend which makes up most of the game, look
+in the [origins-api][0] repository.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Running
 
-### Run your tests
-```
-npm run test
-```
+Run the development server with
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+    npm run serve
