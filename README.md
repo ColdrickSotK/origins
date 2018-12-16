@@ -13,3 +13,5 @@ in the [origins-api][0] repository.
 Run the development server with
 
     npm run serve
+
+[0]: https://github.com/ColdrickSotK/origins-api
